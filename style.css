@@ -1,0 +1,114 @@
+body {
+background-image: url(equipe-de-TI.png);
+background-repeat: no-repeat;
+background-position: left 0;
+
+
+margin: 0;
+padding: 0;
+text-decoration: none;
+
+}
+a {
+background-position: center center; margin: 30px;
+color: white;
+text-decoration: none;
+padding: -5px;
+background-color: rgb(9, 204, 204);
+ 
+}
+
+
+header {
+background-position: center center;
+display: block;
+opacity: 0.9;
+padding: 40px;
+height: 130px;
+background-color: rgb(9, 204, 204) ;
+}
+
+.menu {
+background-position: center;
+opacity: 0.9;
+display: block;
+color: white;
+text-decoration: none;
+text-align: right;
+padding: 20px;
+margin-top: -90px;
+overflow: hidden;
+
+ } 
+ 
+ .logo {
+    background-position: 100px;
+    content: "";
+    background-image: url("");
+    background-position: center center;
+    left: -100px;
+    top: -50px;
+    height: 700px;
+    width: 130%;
+    position: absolute;
+    opacity: 0.9;
+    z-index: -1;
+   
+ }
+
+#button{
+
+    opacity: 0.9;
+    display: inline-block;
+    background-color: #3e24a3;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 5px 5px 0 black;
+    color: white;
+}
+h1{
+    opacity: 0.9;
+  display: block;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #FFF;
+  font-family: "Source Sans Pro" ;
+  margin-top: -12px;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 400; 
+  font-style: normal; 
+  color: rgb(216, 236, 236);
+  text-shadow: black 0.1em 0.1em;
+  background-color: rgb(9, 204, 204);
+}
+h2{
+padding: 90px;
+margin-top: -50px;
+opacity: 0.9;
+color: rgb(0, 0, 0);
+font-style:'https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap';
+font-size: 25px;
+text-align: justify;
+background-color:rgb(9, 204, 204);
+    
+}
+.corpo{
+ opacity: 0.9;
+ margin: 0;
+ padding: 20px;
+ height: 0;
+ color: #FFF;
+ font-size: 2px;
+ font-family: "Fira Code",Arial, Helvetica, sans-serif;
+ font-weight: -500;
+ margin-right: 10;
+ margin-left: 500;
+color: white;
+text-decoration: none;
+
+}
